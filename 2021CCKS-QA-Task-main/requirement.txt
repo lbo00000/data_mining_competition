@@ -1,0 +1,17 @@
+bert4keras==0.7.7
+jieba==0.42.1
+Keras==2.3.1
+nlpcda==2.5.6
+numpy==1.16.5
+openpyxl==3.0.7
+pandas==1.2.3
+scikit-learn==0.23.2
+tensorboard==1.14.0
+tensorflow==1.14.0
+textda==0.1.0.6
+torch==1.5.0
+tqdm==4.50.2
+transformers==4.0.1
+xlrd==2.0.1
+rdflib==5.0.0
+nvidia-ml-py3==7.352.0
